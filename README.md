@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
+
+vanessa 25 ans apprenante a l'it-akademy
+
+formation testeur logiciel 
+
