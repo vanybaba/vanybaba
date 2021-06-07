@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 # **_je m'appeller vanessa j'ai 25 ans formation de testeur logiciel_**
 
-![moi](/images/logo.jpge)
-Format: ![Alt Text]()
+![photode moi](https://github.com/vanybaba/vanybaba/blob/666e7c43f39c80fc9000a798f00d97c1eea0ef89/moi.jpeg)
+
